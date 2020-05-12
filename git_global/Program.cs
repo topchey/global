@@ -11,6 +11,7 @@ namespace git_global
         static void Main(string[] args)
         {
             Console.WriteLine("Pedagog");
+            Console.WriteLine("Pedagog");
         }
     }
 }
