@@ -14,6 +14,9 @@ namespace git_global
             Console.WriteLine("Pedagog");
             Console.WriteLine("Alina");
             Console.WriteLine("Ivanov commit");
+            Console.WriteLine("Yurii Nikulin");
+            Console.WriteLine("Alina_Poliukhovych");
+            Console.WriteLine("Zhulanova Olha");
 
         }
     }
