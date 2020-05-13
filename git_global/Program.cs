@@ -13,7 +13,7 @@ namespace git_global
             Console.WriteLine("Pedagog");
             Console.WriteLine("Pedagog");
             Console.WriteLine("Alina");
-            Console.WriteLine("Ivanov commit");
+            Console.WriteLine("Ivanov Aleksandr");
 
         }
     }
