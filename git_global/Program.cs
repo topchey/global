@@ -17,6 +17,8 @@ namespace git_global
             Console.WriteLine("Yurii Nikulin");
             Console.WriteLine("Alina_Poliukhovych");
             Console.WriteLine("Zhulanova Olha");
+            Console.WriteLine("Yaroslav Pokutnii");
+
 
         }
     }
